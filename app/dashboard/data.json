@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "header": "Enable SSO for enterprise account",
+    "type": "Access Request",
+    "status": "Open",
+    "target": "1",
+    "limit": "3",
+    "reviewer": "Sarah Khan"
+  },
+  {
+    "id": 2,
+    "header": "Generate monthly usage report",
+    "type": "Report Request",
+    "status": "In Progress",
+    "target": "2",
+    "limit": "5",
+    "reviewer": "Ali Raza"
+  },
+  {
+    "id": 3,
+    "header": "Investigate webhook delivery failure",
+    "type": "Technical Issue",
+    "status": "Open",
+    "target": "3",
+    "limit": "2",
+    "reviewer": "Ayesha Malik"
+  },
+  {
+    "id": 4,
+    "header": "Update billing plan limits",
+    "type": "Billing",
+    "status": "Resolved",
+    "target": "1",
+    "limit": "1",
+    "reviewer": "Omar Siddiqui"
+  },
+  {
+    "id": 5,
+    "header": "Migrate customer data to new region",
+    "type": "Data Migration",
+    "status": "In Progress",
+    "target": "4",
+    "limit": "3",
+    "reviewer": "Sarah Khan"
+  },
+  {
+    "id": 6,
+    "header": "Reset user password",
+    "type": "Access Request",
+    "status": "Resolved",
+    "target": "5",
+    "limit": "2",
+    "reviewer": "Ali Raza"
+  },
+  {
+    "id": 7,
+    "header": "Audit recent login activity",
+    "type": "Security",
+    "status": "Open",
+    "target": "2",
+    "limit": "2",
+    "reviewer": "Ayesha Malik"
+  },
+  {
+    "id": 8,
+    "header": "Configure API access for partner",
+    "type": "Integration",
+    "status": "In Progress",
+    "target": "3",
+    "limit": "3",
+    "reviewer": "Omar Siddiqui"
+  },
+  {
+    "id": 9,
+    "header": "Review support ticket backlog",
+    "type": "Operations",
+    "status": "Open",
+    "target": "1",
+    "limit": "4",
+    "reviewer": "Sarah Khan"
+  },
+  {
+    "id": 10,
+    "header": "Enable multi-factor authentication",
+    "type": "Security",
+    "status": "Resolved",
+    "target": "1",
+    "limit": "2",
+    "reviewer": "Ali Raza"
+  },
+  {
+    "id": 11,
+    "header": "Investigate failed invoice generation",
+    "type": "Billing",
+    "status": "In Progress",
+    "target": "2",
+    "limit": "3",
+    "reviewer": "Ayesha Malik"
+  },
+  {
+    "id": 12,
+    "header": "Update notification settings for all users",
+    "type": "Operations",
+    "status": "Open",
+    "target": "3",
+    "limit": "5",
+    "reviewer": "Omar Siddiqui"
+  },
+  {
+    "id": 13,
+    "header": "Deploy new feature to staging",
+    "type": "Deployment",
+    "status": "In Progress",
+    "target": "1",
+    "limit": "2",
+    "reviewer": "Sarah Khan"
+  },
+  {
+    "id": 14,
+    "header": "Backup customer database",
+    "type": "Data Maintenance",
+    "status": "Resolved",
+    "target": "2",
+    "limit": "1",
+    "reviewer": "Ali Raza"
+  },
+  {
+    "id": 15,
+    "header": "Update privacy policy document",
+    "type": "Legal",
+    "status": "Open",
+    "target": "1",
+    "limit": "1",
+    "reviewer": "Ayesha Malik"
+  },
+  {
+    "id": 16,
+    "header": "Optimize system performance",
+    "type": "Technical Improvement",
+    "status": "In Progress",
+    "target": "3",
+    "limit": "3",
+    "reviewer": "Omar Siddiqui"
+  },
+  {
+    "id": 17,
+    "header": "Create user onboarding guide",
+    "type": "Documentation",
+    "status": "Resolved",
+    "target": "2",
+    "limit": "2",
+    "reviewer": "Sarah Khan"
+  },
+  {
+    "id": 18,
+    "header": "Resolve API rate limit issues",
+    "type": "Integration",
+    "status": "Open",
+    "target": "1",
+    "limit": "2",
+    "reviewer": "Ali Raza"
+  },
+  {
+    "id": 19,
+    "header": "Test new reporting module",
+    "type": "Testing",
+    "status": "In Progress",
+    "target": "2",
+    "limit": "3",
+    "reviewer": "Ayesha Malik"
+  },
+  {
+    "id": 20,
+    "header": "Update server SSL certificates",
+    "type": "Technical Maintenance",
+    "status": "Resolved",
+    "target": "1",
+    "limit": "1",
+    "reviewer": "Omar Siddiqui"
+  }
+]
